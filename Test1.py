@@ -6,4 +6,7 @@ print("Hola mundo.")
 aa = 20
 bb = 40
 
-print("hola")
+print("hola1")
+print("hola2")
+print("hola3")
+
